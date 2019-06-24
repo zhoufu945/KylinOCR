@@ -44,12 +44,5 @@ public class OCR {
         }
     	return result;
     }
-    
-    /** 
-     * 中值滤波  
-     * @param pix 像素矩阵数组 
-     * @param w 矩阵的宽 
-     * @param h 矩阵的高 
-     * @return 处理后的数组 
-     */  
+   
 }
