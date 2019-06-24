@@ -22,11 +22,7 @@ public class baiduOCRget {
 				
 				
 				result=(String) wordForDeskResult.get("result");
-				/*	
-			    System.err.println("识别到的数据：\r\n"  );
-				System.err.println(result );
-				System.err.println(">>>>>>>>>>>>>识别到的数据>>>>>>>>>>>>>>>"  );
-				*/
+				
 			} 
 			else{
 				result="没有识别到数据，请检查网络。";
