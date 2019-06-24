@@ -53,8 +53,6 @@ public class BarChart{
           chart.getLegend().setItemFont(new Font("黑体", Font.BOLD, 15));
           chart.getTitle().setFont(new Font("宋体",Font.BOLD,20));//设置标题字体
           
-          // 使用自定义的渲染器  
-          //BarRenderer brender = new BarRenderer(); 
           // 自定义柱状图中柱子的样式
           CustomRenderer brender = new CustomRenderer();
           // 设置柱状图的顶端显示数字
