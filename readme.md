@@ -1,4 +1,4 @@
-1.该工具开发基于Ubuntu kylin操作系统，使用Java语言和eclipse编程环境实现代码编辑与调试，并使用Windowsbuilder完成UI设计，软件的目标运行环境是Ubuntu kylin系统。
+1.该工具开发基于Ubuntu kylin操作系统，使用Java语言和eclipse软件实现代码编辑与调试，并使用Windowsbuilder完成UI设计，软件的目标运行环境是Ubuntu kylin系统。
 
 2.本软件是一类文字识别工具，主要实现将图片、扫描件和PDF等文件中的文字信息识别输出为文本格式，也可以根据用户需要对屏幕框选区域中的文字信息实现识别输出，以便于用户进一步对内容进行编辑、搜索、翻译、保存导出等操作。
 
